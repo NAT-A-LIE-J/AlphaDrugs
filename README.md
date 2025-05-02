@@ -1,0 +1,1 @@
+"Alpha Drugs" is a sobering simulation designed to raise drug awareness. This program immerses the user in a virtual experience of drug consumption, with the simulation continuing until a simulated overdose occurs. It serves as a stark and potentially impactful demonstration of the dangers and risks associated with drug use and the often inability to stop till it’s too late. 
